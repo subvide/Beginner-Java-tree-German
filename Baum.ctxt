@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Baum
+comment1.params=
+comment1.target=Baum()
+comment2.params=neu
+comment2.target=void\ hintenEinfuegen(Datenelement)
+comment3.params=id
+comment3.target=Datenelement\ entfernen(int)
+comment4.params=id
+comment4.target=Datenelement\ suchen(int)
+comment5.params=
+comment5.target=void\ ausgebenPre()
+comment6.params=
+comment6.target=void\ ausgebenPost()
+comment7.params=
+comment7.target=void\ ausgebenIn()
+numComments=8
